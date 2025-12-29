@@ -4,7 +4,7 @@ der Niedersächsischen Feuerwehrverordnung.
 
 Derzeit werden die "neuen" Voraussetzungen geprüft, aber die "alten" Dienstgrade verwendet → [ToDos](#todos). 
 
-Die geprüften Voraussetzungen sind in der Datei [befoerderungs_vorschlag.py](befoerderungs_vorschlag.py) in den Funktionen ´check_...´ bechrieben.
+Die geprüften Voraussetzungen sind in der Datei [befoerderungs_vorschlag.py](befoerderungs_vorschlag.py) in den Funktionen `check_...()` bechrieben.
 
 # ToDos
 
