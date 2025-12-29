@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Dieses Skript hat derzeit keinen Anspruch fehlerfrei oder vollständig zu sein. Alle Vorschläge sind daher noch einmal zu prüfen!
+> Das Skript steht zur Verfügung, damit es evtl. auch für andere einen Nutzen bietet.
+
 # Beförderungsvorschlag 
 Prüfung der Beförderungsvorschläge aus einem Datenexport von FeuerON gemäß den Angaben 
 der Niedersächsischen Feuerwehrverordnung.
