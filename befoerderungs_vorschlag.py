@@ -237,7 +237,7 @@ def check_OFM(person:Person):
          - Mindestdienstzeit 2 Jahre
          - abgeschlossene MGA-QS1 UND MGA-QS2 ODER Truppmannausbildung Teil 1 und 2 ODER Grundausbildungslehrgang"""
     cond1 = (HatFortb(person.Lehrgange, LehrgangEnum.QS2) or
-             HatFortb(person.Lehrgange, LehrgangEnum.TM1) or
+             HatFortb(person.Lehrgange, LehrgangEnum.TM2) or
              HatFortb(person.Lehrgange, LehrgangEnum.GA))
     cond2 = AnzDienstJahreFF(person.Abteilungen) >= 2
     #logger.debug(f"  check_OFM(): cond1: {cond1}, cond2: {cond2}")
